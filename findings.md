@@ -1,4 +1,4 @@
-# Problems
+# Bugs
 
 ## 1 -> Title: Product sorting by ascending price is not working
 
